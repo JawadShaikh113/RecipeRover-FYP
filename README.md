@@ -1,16 +1,3 @@
 # reciperover
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Recipe Rover is a smart recipe recommendation app that helps users discover recipes based on the ingredients they have at home. The app also allows users to share their own recipes with photos and captions, interact through likes and comments, and save favorite recipes. Built with Flutter and Firebase, Recipe Rover makes cooking easier, smarter, and more social.
