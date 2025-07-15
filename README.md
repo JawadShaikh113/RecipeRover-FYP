@@ -1,7 +1,7 @@
 # reciperover
 
 Recipe Rover is a smart recipe recommendation app that helps users discover recipes based on the ingredients they have at home. The app also allows users to share their own recipes with photos and captions, interact through likes and comments, and save favorite recipes. Built with Flutter and Firebase, Recipe Rover makes cooking easier, smarter, and more social.
-<img width="1234" height="2441" alt="Picture1" src="https://github.com/user-attachments/assets/eac6e43f-464f-479f-b0d3-4dea89621e89" />
+<img width="500" height="989" alt="Picture1" src="https://github.com/user-attachments/assets/eac6e43f-464f-479f-b0d3-4dea89621e89" />
 <img width="1234" height="2441" alt="Picture2" src="https://github.com/user-attachments/assets/adcb0c0d-823e-45eb-a99d-44a3b00d6186" />
 <img width="1234" height="2441" alt="Picture3" src="https://github.com/user-attachments/assets/1817cc25-2100-4ba3-a623-135ca4ae6049" />
 <img width="1113" height="2201" alt="Picture4" src="https://github.com/user-attachments/assets/c00e13d0-5741-40e6-9cb6-bed517d4027d" />
