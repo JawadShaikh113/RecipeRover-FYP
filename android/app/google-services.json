@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827904626346",
+    "project_id": "reciperover-36ca0",
+    "storage_bucket": "reciperover-36ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827904626346:android:460ae87257709fbbbfcad3",
+        "android_client_info": {
+          "package_name": "com.example.reciperover"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM8OpxYhpQp5NW6c_-DvWSR2JBjjLIj2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
